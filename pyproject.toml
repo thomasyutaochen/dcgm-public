@@ -6,7 +6,7 @@ requires = ["setuptools", "wheel"]
 name = "dcgm-scientific"
 version = "0.1.0"
 description = "Dynamic Causal-Graph Memory (DCGM): scientific-computing focused implementation"
-authors = [{name="Your Name", email="you@example.com"}]
+authors = [{name="Thomas Chen", email="chen.thomas@columbia.edu"}]
 readme = "README.md"
 requires-python = ">=3.9"
 
