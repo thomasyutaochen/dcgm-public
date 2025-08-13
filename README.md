@@ -1,7 +1,7 @@
 
 # DCGM-Public
 
-A **scientific-computing–focused** reference implementation of **Dynamic Causal-Graph Memory (DCGM)** —
+A **scientific-computing–focused** (concise) reference implementation of **Dynamic Causal-Graph Memory (DCGM)** —
 a structured retrieval module for million-token reasoning. 
 
 - **Chen, T. Y.** (2025, July). **Dynamic Causal-Graph Memory: Structured Retrieval for Million–Token Reasoning**. *Proceedings of the International Conference on Machine Learning (ICML)* | Workshop on Long-Context Foundation Models. [**Paper Link**](https://openreview.net/forum?id=0Us7om0vhZ&noteId=0Us7om0vhZ)
