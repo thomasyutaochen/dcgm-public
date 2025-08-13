@@ -55,4 +55,5 @@ This prints memory usage, edge counts, sparsification statistics, and produces:
 - **Theory probes**: numerical checks of spectral deviation `‖L̃-L‖` and a simple bound relating truncated mass to pooled error.
 
 ## References
-- Original paper introducing DCGM (used as the implementation reference).
+- **Chen, T. Y.** (2025, July). **Dynamic Causal-Graph Memory: Structured Retrieval for Million–Token Reasoning**. *Proceedings of the International Conference on Machine Learning (ICML)* | Workshop on Long-Context Foundation Models. [**Paper Link**](https://openreview.net/forum?id=0Us7om0vhZ&noteId=0Us7om0vhZ)
+
